@@ -4,7 +4,11 @@
 
 ---
 
-## 📬 How to Reach Me  
+## 📬 How to Reach Me
+
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Email%20%7C%20LinkedIn%20%7C%20GitHub%20%7C%20Portfolio%20%7C%20Phone&width=800&height=120" alt="How to Reach Me" />
+</p>  
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rithwiksrivastav91@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rithwik-srivastav-152548323)
@@ -28,6 +32,10 @@
 ---
 
 ## 🛠 Tech Stack  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kaustubhgupta/fancy-readme-badges/main/badges/tech-stack-floating.svg" alt="Floating Tech Stack" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
