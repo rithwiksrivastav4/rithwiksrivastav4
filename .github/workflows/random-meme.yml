@@ -1,0 +1,27 @@
+name: Random Meme Updater
+
+on:
+  schedule:
+    - cron: "*/5 * * * *" # Every 5 minutes
+  workflow_dispatch:
+
+jobs:
+  update-meme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Pick Random Meme
+        run: |
+          MEME=$(ls memes | shuf -n 1)
+          sed -i "s|memes/.*.jpg|memes/${MEME}|" README.md
+          echo "Selected meme: ${MEME}"
+
+      - name: Commit & Push Changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update meme to ${MEME}" || echo "No changes"
+          git push
