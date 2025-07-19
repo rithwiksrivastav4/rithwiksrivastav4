@@ -29,10 +29,11 @@ jobs:
             MEME=$(ls memes | shuf -n 1)
           done
 
-          # Escape special characters for sed
-          SAFE_MEME=$(printf '%s\n' "$MEME" | sed 's/[&/\|]/\\&/g')
+          # Add a cache-busting timestamp
+          CACHEBUST=$(date +%s)
 
-          sed -i -E "s|(\./)?memes/[a-zA-Z0-9._-]+\.(jpg|png|gif)|memes/${SAFE_MEME}?cachebust=$(date +%s)|" README.md
+          # Use '#' as delimiter to avoid sed errors with slashes
+          sed -i -E "s#(\./)?memes/[a-zA-Z0-9._-]+\.(jpg|png|gif)(\?cachebust=[0-9]+)?#memes/${MEME}?cachebust=${CACHEBUST}#" README.md
 
           echo "Selected meme: ${MEME}"
           echo "MEME=${MEME}" >> $GITHUB_ENV
