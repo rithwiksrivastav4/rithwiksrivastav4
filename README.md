@@ -1,20 +1,26 @@
 # 👨‍💻 Rithwik Srivastav – DevOps & Cloud Engineer  
 
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=rithwiksrivastav4&label=Profile%20Views&color=0e75b6&style=flat" alt="rithwiksrivastav4" /> 
+</p>
+
 🚀 Highly motivated and detail-oriented **DevOps Engineer and Cloud Engineer** experienced in automating infrastructure, managing CI/CD pipelines, and deploying scalable applications on AWS and Azure. I specialize in using tools like **Terraform, Kubernetes, Docker, Ansible, and GitHub Actions** to build reliable, secure, and high-performance cloud environments.  
 
 ---
 
-## 📬 How to Reach Me
+## 📬 How to Reach Me  
 
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Email%20%7C%20LinkedIn%20%7C%20GitHub%20%7C%20Portfolio%20%7C%20Phone&width=800&height=120" alt="How to Reach Me" />
-</p>  
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Let's%20Connect&width=800&height=120" alt="Contact Banner" />
+</p>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rithwiksrivastav91@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rithwik-srivastav-152548323)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rithwiksrivastav4)
-[![Portfolio](https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://www.youware.com/project/ezpcbtzxch)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%208309824929-brightgreen?style=for-the-badge)](tel:+918309824929)
+<p align="center">
+  <a href="mailto:rithwiksrivastav91@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/rithwik-srivastav-152548323"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/rithwiksrivastav4"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.youware.com/project/ezpcbtzxch"><img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="tel:+918309824929"><img src="https://img.shields.io/badge/Phone-%2B91%208309824929-brightgreen?style=for-the-badge" alt="Phone" /></a>
+</p>
 
 ---
 
@@ -116,5 +122,25 @@
 
 ---
 
-> 🔍 *“Driven by a passion for automation and cloud scalability, I aim to build systems that are not only functional but also resilient and efficient.”* — **Rithwik Srivastav**
+## 📊 GitHub Stats  
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rithwiksrivastav4&show_icons=true&theme=radical&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithwiksrivastav4&layout=compact&theme=radical&hide_border=true" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rithwiksrivastav4&theme=radical&hide_border=true" height="180px"/>
+</p>
+
+---
+
+## 🐍 Snake Contribution Graph  
+
+<p align="center">
+  <img src="https://github.com/rithwiksrivastav4/rithwiksrivastav4/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+> 🔍 *“Driven by a passion for automation and cloud scalability, I aim to build systems that are not only functional but also resilient and efficient.”* — **Rithwik Srivastav**
