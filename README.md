@@ -34,11 +34,6 @@
 ## 🛠 Tech Stack  
 
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=AWS%20%7C%20Azure%20%7C%20Docker%20%7C%20Kubernetes%20%7C%20Terraform%20%7C%20Ansible%20%7C%20GitHub%20Actions%20%7C%20Prometheus%20%7C%20Grafana%20%7C%20Python%20%7C%20Bash&width=800&height=120" alt="Tech Stack" />
-</p>
-
-
-<p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
