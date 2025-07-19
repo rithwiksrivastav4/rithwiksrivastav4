@@ -2,7 +2,7 @@
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=rithwiksrivastav4&label=Profile%20Views&color=0e75b6&style=flat" alt="rithwiksrivastav4" /> 
-  <img src="https://hits.sh/github.com/rithwiksrivastav4/rithwiksrivastav4.svg?style=flat-square&label=Unique%20Visitors&color=blue" alt="Unique Visitors" />
+  <img src="https://img.shields.io/endpoint?url=https://hits.sh/github.com/rithwiksrivastav4/rithwiksrivastav4.json&color=blue&label=Unique%20Visitors" alt="Unique Visitors" />
 </p>
 
 <p align="center">
