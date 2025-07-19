@@ -1,12 +1,15 @@
 name: Random Meme Updater
 
 on:
+  push:
+    branches:
+      - main
   schedule:
-    - cron: "*/1 * * * *" # Every 1 minutes
+    - cron: "*/1 * * * *" # Every 1 minute
   workflow_dispatch:
 
 permissions:
-  contents: write   # Required for pushing changes
+  contents: write
 
 jobs:
   update-meme:
@@ -15,15 +18,18 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v3
         with:
-          persist-credentials: false  # We'll set our own credentials
+          persist-credentials: false
 
       - name: Pick Random Meme
         id: meme
         run: |
           MEME=$(ls memes | shuf -n 1)
-          sed -i "s|memes/.*.jpg|memes/${MEME}|" README.md
+          sed -i "s|memes/.*\.(jpg\|png\|gif)|memes/${MEME}|" README.md
           echo "Selected meme: ${MEME}"
-          echo "MEME=${MEME}" >> $GITHUB_ENV   # Save MEME as an env variable
+          echo "MEME=${MEME}" >> $GITHUB_ENV
+
+      - name: Debug README
+        run: cat README.md
 
       - name: Configure Git
         run: |

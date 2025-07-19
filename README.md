@@ -1,8 +1,8 @@
 # 👨‍💻 Rithwik Srivastav – DevOps & Cloud Engineer  
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=rithwiksrivastav4&label=Profile%20Views&color=0e75b6&style=flat" alt="rithwiksrivastav4" /> 
-  <img src="https://img.shields.io/endpoint?url=https://hits.sh/github.com/rithwiksrivastav4/rithwiksrivastav4.json&color=blue&label=Unique%20Visitors" alt="Unique Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=rithwiksrivastav4&label=Profile%20Views&color=0e75b6&style=flat&cachebust=1" alt="rithwiksrivastav4" /> 
+  <img src="https://hits.sh/github.com/rithwiksrivastav4/rithwiksrivastav4.svg?color=blue&label=Unique%20Visitors&extra=${{ github.run_number }}" alt="Unique Visitors" />
 </p>
 
 <p align="center">
@@ -18,6 +18,7 @@ I specialize in tools like **Terraform, Kubernetes, Docker, Ansible, and GitHub 
 ---
 
 ## 🏆 GitHub Trophies  
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rithwiksrivastav4&theme=radical&no-frame=true&margin-w=5&row=1&column=6" />
 </p>
@@ -25,6 +26,7 @@ I specialize in tools like **Terraform, Kubernetes, Docker, Ansible, and GitHub 
 ---
 
 ## 📊 GitHub Metrics  
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rithwiksrivastav4&theme=radical" />
 </p>
@@ -128,7 +130,7 @@ I specialize in tools like **Terraform, Kubernetes, Docker, Ansible, and GitHub 
 ## 💼 Internship  
 
 **V CUBE Software Solutions Pvt. Ltd.** – *DevOps & Cloud Intern*  
-- Gained hands-on experience with AWS and Microsoft Azure cloud platforms.  
+- Gained hands-on experience with AWS and Microsoft Azure cloud platforms.
 - Worked on implementing DevOps pipelines, automation workflows, and deployment strategies.  
 - Developed practical understanding of cloud infrastructure, CI/CD tools, and infrastructure provisioning techniques.  
 
