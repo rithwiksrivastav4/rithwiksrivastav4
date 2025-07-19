@@ -1,12 +1,33 @@
 # 👨‍💻 Rithwik Srivastav – DevOps & Cloud Engineer  
 
-<p align="right"> 
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=rithwiksrivastav4&label=Profile%20Views&color=0e75b6&style=flat" alt="rithwiksrivastav4" /> 
   <img src="https://hits.sh/github.com/rithwiksrivastav4/rithwiksrivastav4.svg?style=flat-square&label=Unique%20Visitors&color=blue" alt="Unique Visitors" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00C7F7&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%7C+Cloud+Specialist;Terraform+%7C+Kubernetes+%7C+Docker;AWS+%7C+Azure+%7C+GitHub+Actions" alt="Typing Animation" />
+</p>
 
-🚀 Highly motivated and detail-oriented **DevOps Engineer and Cloud Engineer** experienced in automating infrastructure, managing CI/CD pipelines, and deploying scalable applications on AWS and Azure. I specialize in using tools like **Terraform, Kubernetes, Docker, Ansible, and GitHub Actions** to build reliable, secure, and high-performance cloud environments.  
+---
+
+## 🚀 About Me  
+Highly motivated and detail-oriented **DevOps Engineer and Cloud Engineer** experienced in automating infrastructure, managing CI/CD pipelines, and deploying scalable applications on **AWS and Azure**.  
+I specialize in tools like **Terraform, Kubernetes, Docker, Ansible, and GitHub Actions** to build **secure and high-performance cloud environments**.
+
+---
+
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rithwiksrivastav4&theme=radical&no-frame=true&margin-w=5&row=1&column=6" />
+</p>
+
+---
+
+## 📊 GitHub Metrics  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rithwiksrivastav4&theme=radical" />
+</p>
 
 ---
 
@@ -53,11 +74,6 @@
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-</p>
-
-<!-- Animation effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00C7F7&center=true&vCenter=true&width=500&lines=AWS+%7C+Azure+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Ansible+%7C+GitHub+Actions;Prometheus+%7C+Grafana+%7C+Python+%7C+Bash" alt="Tech Stack Animation" />
 </p>
 
 ---
@@ -118,9 +134,10 @@
 
 ---
 
-## 🔥 Contribution Graph  
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rithwiksrivastav4&theme=react-dark&hide_border=true&area=true)
+## 🔥 GitHub Activity Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rithwiksrivastav4&theme=react-dark&hide_border=true&area=true" />
+</p>
 
 ---
 
@@ -141,6 +158,21 @@
 
 <p align="center">
   <img src="https://github.com/rithwiksrivastav4/rithwiksrivastav4/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+## 💡 Dev Quote  
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
+
+---
+
+## 😂 Random Dev Meme  
+<p align="center">
+  <img src="https://random-memer.herokuapp.com/" width="400px"/>
 </p>
 
 ---
