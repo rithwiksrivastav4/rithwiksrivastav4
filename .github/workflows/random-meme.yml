@@ -1,11 +1,8 @@
 name: Random Meme Updater
 
 on:
-  push:
-    branches:
-      - main
   schedule:
-    - cron: "*/1 * * * *" # Every 1 minute
+    - cron: "*/5 * * * *" # Every 5 minutes
   workflow_dispatch:
 
 permissions:
@@ -23,13 +20,19 @@ jobs:
       - name: Pick Random Meme
         id: meme
         run: |
-          MEME=$(ls memes | shuf -n 1)
-          sed -i "s|memes/.*\.(jpg\|png\|gif)|memes/${MEME}|" README.md
+          CURRENT_MEME=$(grep -o 'memes/[^ ?")]*' README.md | head -n 1 | sed 's|memes/||')
+          MEME=$CURRENT_MEME
+          while [ "$MEME" = "$CURRENT_MEME" ]; do
+            MEME=$(ls memes | shuf -n 1)
+          done
+          sed -i -E "s|memes/[a-zA-Z0-9._-]+\.(jpg|png|gif)|memes/${MEME}|" README.md
+
+          CACHEBUST=$(date +%s)
+          sed -i -E "s|\?cachebust=[0-9]*|\?cachebust=${CACHEBUST}|" README.md
+
           echo "Selected meme: ${MEME}"
           echo "MEME=${MEME}" >> $GITHUB_ENV
-
-      - name: Debug README
-        run: cat README.md
+          echo "meme=${MEME}" >> $GITHUB_OUTPUT
 
       - name: Configure Git
         run: |
@@ -40,5 +43,5 @@ jobs:
       - name: Commit & Push Changes
         run: |
           git add README.md
-          git commit -m "Update meme to $MEME" || echo "No changes"
+          git commit -m "Update meme to ${{ steps.meme.outputs.meme }}" || echo "No changes"
           git push
