@@ -2,7 +2,9 @@
 
 <p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=rithwiksrivastav4&label=Profile%20Views&color=0e75b6&style=flat" alt="rithwiksrivastav4" /> 
+  <img src="https://hits.sh/github.com/rithwiksrivastav4/rithwiksrivastav4.svg?style=flat-square&label=Unique%20Visitors&color=blue" alt="Unique Visitors" />
 </p>
+
 
 🚀 Highly motivated and detail-oriented **DevOps Engineer and Cloud Engineer** experienced in automating infrastructure, managing CI/CD pipelines, and deploying scalable applications on AWS and Azure. I specialize in using tools like **Terraform, Kubernetes, Docker, Ansible, and GitHub Actions** to build reliable, secure, and high-performance cloud environments.  
 
