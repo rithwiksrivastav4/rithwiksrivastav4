@@ -1,8 +1,11 @@
 name: Random Meme Updater
 
 on:
+  push:
+    branches:
+      - main
   schedule:
-    - cron: "*/5 * * * *" # Every 5 minutes
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -25,14 +28,18 @@ jobs:
           while [ "$MEME" = "$CURRENT_MEME" ]; do
             MEME=$(ls memes | shuf -n 1)
           done
-          sed -i -E "s|memes/[a-zA-Z0-9._-]+\.(jpg|png|gif)|memes/${MEME}|" README.md
+          sed -i -E "s|(\./)?memes/[a-zA-Z0-9._-]+\.(jpg|png|gif)|memes/${MEME}|" README.md
 
           CACHEBUST=$(date +%s)
-          sed -i -E "s|\?cachebust=[0-9]*|\?cachebust=${CACHEBUST}|" README.md
+          sed -i -E "s|\?cachebust=[0-9]*|\?cachebust=${CACHEBUST}|" README.md || \
+          echo "?cachebust=${CACHEBUST}" >> README.md
 
           echo "Selected meme: ${MEME}"
           echo "MEME=${MEME}" >> $GITHUB_ENV
           echo "meme=${MEME}" >> $GITHUB_OUTPUT
+
+      - name: Debug README
+        run: cat README.md
 
       - name: Configure Git
         run: |
