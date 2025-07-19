@@ -5,23 +5,34 @@ on:
     - cron: "*/5 * * * *" # Every 5 minutes
   workflow_dispatch:
 
+permissions:
+  contents: write   # Required for pushing changes
+
 jobs:
   update-meme:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v3
+        with:
+          persist-credentials: false  # We'll set our own credentials
 
       - name: Pick Random Meme
+        id: meme
         run: |
           MEME=$(ls memes | shuf -n 1)
           sed -i "s|memes/.*.jpg|memes/${MEME}|" README.md
           echo "Selected meme: ${MEME}"
+          echo "MEME=${MEME}" >> $GITHUB_ENV   # Save MEME as an env variable
 
-      - name: Commit & Push Changes
+      - name: Configure Git
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+
+      - name: Commit & Push Changes
+        run: |
           git add README.md
-          git commit -m "Update meme to ${MEME}" || echo "No changes"
+          git commit -m "Update meme to $MEME" || echo "No changes"
           git push
