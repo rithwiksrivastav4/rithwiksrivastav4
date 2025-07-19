@@ -170,7 +170,8 @@ I specialize in tools like **Terraform, Kubernetes, Docker, Ansible, and GitHub 
 
 ---
 
-## 😂 Random Dev Meme  
+## 😂 Random Dev Meme
+
 <p align="center">
   <img src="https://random-memer.herokuapp.com/" width="400px"/>
 </p>
