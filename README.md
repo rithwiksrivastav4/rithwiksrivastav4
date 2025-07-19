@@ -2,7 +2,7 @@
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=rithwiksrivastav4&label=Profile%20Views&color=0e75b6&style=flat&cachebust=1" alt="rithwiksrivastav4" /> 
-  <img src="https://hits.sh/github.com/rithwiksrivastav4/rithwiksrivastav4.svg?color=blue&label=Unique%20Visitors&extra=${{ github.run_number }}" alt="Unique Visitors" />
+  <img src="https://hits.sh/github.com/rithwiksrivastav4/rithwiksrivastav4.svg?color=blue&label=Unique%20Visitors&cachebust=1" alt="Unique Visitors" />
 </p>
 
 <p align="center">
