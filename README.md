@@ -29,7 +29,7 @@
 
 ## 🛠 Tech Stack  
 
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -41,12 +41,14 @@
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-</p>
+</div>
 
-<!-- Animation effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00C7F7&center=true&vCenter=true&width=500&lines=AWS+%7C+Azure+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Ansible+%7C+GitHub+Actions;Prometheus+%7C+Grafana+%7C+Python+%7C+Bash" alt="Tech Stack Animation" />
-</p>
+---
+
+<!-- Animated Horizontal Scrolling -->
+<div align="center">
+  <img src="https://marquee-to-svg.vercel.app/?id=1&content=AWS%20%7C%20Azure%20%7C%20Docker%20%7C%20Kubernetes%20%7C%20Terraform%20%7C%20Ansible%20%7C%20GitHub%20Actions%20%7C%20Prometheus%20%7C%20Grafana%20%7C%20Python%20%7C%20Bash&gradient=linear-gradient(90deg,%20%23ff8a00,%20%23e52e71)&speed=60&size=28" alt="Scrolling Tech Stack" />
+</div>
 
 ---
 
