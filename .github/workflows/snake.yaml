@@ -1,8 +1,11 @@
 name: Generate Snake Animation
 
+permissions:
+  contents: write   # Allows pushing to branches
+
 on:
-  schedule: 
-    - cron: "0 0 * * *"   # Runs every day at midnight UTC
+  schedule:
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
