@@ -11,7 +11,8 @@
 
 ---
 
-## 🚀 About Me  
+## 🚀 About Me
+
 Highly motivated and detail-oriented **DevOps Engineer and Cloud Engineer** experienced in automating infrastructure, managing CI/CD pipelines, and deploying scalable applications on **AWS and Azure**.  
 I specialize in tools like **Terraform, Kubernetes, Docker, Ansible, and GitHub Actions** to build **secure and high-performance cloud environments**.
 
@@ -83,31 +84,46 @@ I specialize in tools like **Terraform, Kubernetes, Docker, Ansible, and GitHub 
 ## 📁 Projects  
 
 ### 🚀 **Terraform**
+
 - **Multi-cloud Deployment**: Provisioned infrastructure on AWS & Azure using Terraform for scalable, repeatable deployments.  
 - **CI/CD Infrastructure**: Built automated pipelines integrated with GitHub Actions and GitLab CI.  
 - **Kubernetes Cluster Deployment**: Provisioned production-grade Kubernetes clusters using Terraform modules.  
 
 ### ☸️ **Kubernetes**
+
 - **Spring Boot Application Deployment**: Deployed Java-based microservices with auto-scaling, service discovery, and high availability.  
 - **Microservices with Load Balancer**: Orchestrated Python-based library app with persistent volumes and traffic routing.  
 - **Rolling Updates**: Implemented seamless, zero-downtime deployments using Kubernetes strategies.  
 
 ### 🐳 **Docker**
+
 - **Python Application**: Created lightweight Docker images for Python scripts and deployed across environments.  
 - **Spring Boot Containerization**: Used multi-stage Dockerfiles for optimized builds.  
 - **Static Website Deployment**: Dockerized Nginx and Apache-hosted sites.  
 
 ### ⚙️ **Ansible**
+
 - **Java Application Automation**: Provisioned remote deployments using Ansible playbooks.  
 - **Website Deployment**: Automated server setup and file transfer for static sites.  
 - **React.js Deployment**: Built and deployed full-stack apps to cloud instances.  
 
 ### 🧪 **GitHub & Azure DevOps**
+
 - **GitHub Actions**: Integrated automated testing, linting, formatting, and Terraform deployments.  
 - **Azure DevOps**: Built Kubernetes clusters and executed quality testing pipelines.  
 
 ### 🐍 **Python Projects**
+
 - Number Guessing Game, SIP Calculator, FastAPI Library App, Currency Converter, etc.  
+
+---
+
+## Languages and tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,mysql,githubactions,gitlab,azure,git,github,docker,kubernetes,terraform,ansible,aws,bash,python,powershell,grafana,prometheus,vscode" />
+</p>
+
 
 ---
 
@@ -130,13 +146,15 @@ I specialize in tools like **Terraform, Kubernetes, Docker, Ansible, and GitHub 
 ## 💼 Internship  
 
 **V CUBE Software Solutions Pvt. Ltd.** – *DevOps & Cloud Intern*  
+
 - Gained hands-on experience with AWS and Microsoft Azure cloud platforms.
 - Worked on implementing DevOps pipelines, automation workflows, and deployment strategies.  
 - Developed practical understanding of cloud infrastructure, CI/CD tools, and infrastructure provisioning techniques.  
 
 ---
 
-## 🔥 GitHub Activity Graph  
+## 🔥 GitHub Activity Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rithwiksrivastav4&theme=react-dark&hide_border=true&area=true" />
 </p>
