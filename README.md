@@ -41,7 +41,7 @@ I specialize in tools like **Terraform, Kubernetes, Docker, Ansible, and GitHub 
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/rithwiksrivastva9/">
+  <a href="https://www.instagram.com/rithwiksrivastav9/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:rithwiksrivastav91@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/rithwik-srivastav-152548323"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
