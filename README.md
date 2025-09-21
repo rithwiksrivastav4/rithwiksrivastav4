@@ -65,8 +65,6 @@ I specialize in tools like **Terraform, Kubernetes, Docker, Ansible, and GitHub 
 
 ---
 
-## 🛠 Tech Stack  
-
 ## 🛠️ Tech Stack
 
 ### **Languages & Frameworks**
@@ -99,8 +97,6 @@ I specialize in tools like **Terraform, Kubernetes, Docker, Ansible, and GitHub 
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="40" height="40"/>
 </p>
-
----
 
 ---
 
