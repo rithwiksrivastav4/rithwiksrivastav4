@@ -46,7 +46,7 @@ I specialize in tools like **Terraform, Kubernetes, Docker, Ansible, and GitHub 
   <a href="mailto:rithwiksrivastav91@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/rithwik-srivastav-152548323"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/rithwiksrivastav4"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.youware.com/project/ezpcbtzxch"><img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://rithwik-portfolio-delta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="tel:+918309824929"><img src="https://img.shields.io/badge/Phone-%2B91%208309824929-brightgreen?style=for-the-badge" alt="Phone" /></a>
 </p>
 
@@ -54,7 +54,7 @@ I specialize in tools like **Terraform, Kubernetes, Docker, Ansible, and GitHub 
 
 ## 🧠 Technical Skills  
 
-- **CI/CD**: GitHub Actions, GitLab CI/CD, Azure DevOps Pipelines  
+- **CI/CD**: GitHub Actions, Jenkins CI/CD, Azure DevOps Pipelines  
 - **Version Control**: Git, GitHub, GitLab  
 - **Containerization**: Docker  
 - **Container Orchestration**: Kubernetes, Helm  
