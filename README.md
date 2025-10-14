@@ -148,8 +148,18 @@ I specialize in tools like **Terraform, Kubernetes, Docker, Ansible, and GitHub 
 **Tech Stack:**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,jenkins,docker,terraform,argocd,sonarqube,owasp,trivy,prometheus,grafana,helm,redis,github" />
+  <!-- Skillicons icons for available tools -->
+  <img src="https://skillicons.dev/icons?i=aws,jenkins,docker,terraform,prometheus,grafana,redis,github" />
+
+  <!-- Custom icons for missing tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="argocd" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg" alt="sonarqube" width="30" height="30"/>
+   <img src="https://raw.githubusercontent.com/OWASP/www-project-top-ten/main/images/OWASP-Logo-Wordmark-Black.png" alt="owasp" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/logo/trivy-logo.svg" alt="trivy" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/helm/helm/main/docs/images/helm-logo.svg" alt="helm" width="30" height="30"/>
 </p>
+
+
 
 **Description:**
 
