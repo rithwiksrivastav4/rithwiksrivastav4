@@ -75,6 +75,7 @@ I specialize in tools like **Terraform, Kubernetes, Docker, Ansible, and GitHub 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg" alt="groovy" width="40" height="40"/>
 </p>
 
 ### **Cloud & DevOps**
@@ -108,11 +109,15 @@ I specialize in tools like **Terraform, Kubernetes, Docker, Ansible, and GitHub 
 - **CI/CD Infrastructure**: Built automated pipelines integrated with GitHub Actions and GitLab CI.  
 - **Kubernetes Cluster Deployment**: Provisioned production-grade Kubernetes clusters using Terraform modules.  
 
+---
+
 ### ☸️ **Kubernetes**
 
 - **Spring Boot Application Deployment**: Deployed Java-based microservices with auto-scaling, service discovery, and high availability.  
 - **Microservices with Load Balancer**: Orchestrated Python-based library app with persistent volumes and traffic routing.  
 - **Rolling Updates**: Implemented seamless, zero-downtime deployments using Kubernetes strategies.  
+
+---
 
 ### 🐳 **Docker**
 
@@ -120,16 +125,45 @@ I specialize in tools like **Terraform, Kubernetes, Docker, Ansible, and GitHub 
 - **Spring Boot Containerization**: Used multi-stage Dockerfiles for optimized builds.  
 - **Static Website Deployment**: Dockerized Nginx and Apache-hosted sites.  
 
+---
+
 ### ⚙️ **Ansible**
 
 - **Java Application Automation**: Provisioned remote deployments using Ansible playbooks.  
 - **Website Deployment**: Automated server setup and file transfer for static sites.  
 - **React.js Deployment**: Built and deployed full-stack apps to cloud instances.  
 
+---
+
 ### 🧪 **GitHub & Azure DevOps**
 
-- **GitHub Actions**: Integrated automated testing, linting, formatting, and Terraform deployments.  
-- **Azure DevOps**: Built Kubernetes clusters and executed quality testing pipelines.  
+- **GitHub Actions**: Integrated automated testing, linting, formatting, and Terraform deployments.
+
+- **Azure DevOps**: Built Kubernetes clusters and executed quality testing pipelines.
+
+---
+
+### Project: Wanderlust – End-to-End MERN Application Deployment on AWS EKS
+
+**Tech Stack:**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,jenkins,docker,terraform,argocd,sonarqube,owasp,trivy,prometheus,grafana,helm,redis,github" />
+</p>
+
+**Description:**
+
+- Deployed a full-stack **MERN travel blog application** on **AWS EKS** using a complete **CI/CD pipeline** with **Jenkins and ArgoCD**.
+- Automated infrastructure provisioning with **Terraform** and managed containerized builds using **Docker** and **Amazon EKS**.
+- Integrated **OWASP, Trivy, and SonarQube** into the **Jenkins pipeline** for security, vulnerability scanning, and code quality checks.
+- Configured **GitOps workflow** using **ArgoCD** for continuous deployment and environment synchronization.
+- Set up **Prometheus** and **Grafana** for EKS cluster and application monitoring via **Helm charts**.
+- Implemented **email notifications** for Jenkins build events and Redis caching to enhance application performance.
+
+**Outcome:**  
+- Achieved a production-ready, secure, and fully automated deployment pipeline demonstrating complete **DevSecOps lifecycle** implementation.
+
+---
 
 ### 🐍 **Python Projects**
 
@@ -140,7 +174,7 @@ I specialize in tools like **Terraform, Kubernetes, Docker, Ansible, and GitHub 
 ## Languages and tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,mysql,githubactions,gitlab,azure,git,github,docker,kubernetes,terraform,ansible,aws,bash,python,powershell,grafana,prometheus,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,mysql,githubactions,gitlab,azure,git,github,docker,kubernetes,terraform,ansible,aws,bash,python,powershell,grafana,prometheus,vscode,jenkins" />
 </p>
 
 
