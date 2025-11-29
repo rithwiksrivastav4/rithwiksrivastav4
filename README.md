@@ -256,7 +256,7 @@ I specialize in tools like **Terraform, Kubernetes, Docker, Ansible, and GitHub 
 ## 😂 Random Dev Meme
 
 <p align="center">
-  <img src="memes/meme5.png?cachebust=1764445666" width="400px" alt="Random Dev Meme" />
+  <img src="memes/meme8.png?cachebust=1764446084" width="400px" alt="Random Dev Meme" />
 </p>
 
 ---
