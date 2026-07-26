@@ -1,4 +1,4 @@
-# 👨‍💻 Rithwik Srivastav – DevOps & Cloud Engineer  
+# 👨‍💻 Rithwik Srivastav – DevOps, DevSecOps & Cloud Engineer 
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=rithwiksrivastav4&label=Profile%20Views&color=0e75b6&style=flat&cachebust=1" alt="rithwiksrivastav4" /> 
@@ -6,19 +6,35 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00C7F7&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%7C+Cloud+Specialist;Terraform+%7C+Kubernetes+%7C+Docker;AWS+%7C+Azure+%7C+GitHub+Actions" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00C7F7&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%7C+Cloud+Specialist;DevSecOps+%7C+GitOps+%7C+Platform+Engineering;Terraform+%7C+Kubernetes+%7C+Docker;AWS+%7C+Azure+%7C+GitHub+Actions" alt="Typing Animation" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-Highly motivated and detail-oriented **DevOps Engineer and Cloud Engineer** experienced in automating infrastructure, managing CI/CD pipelines, and deploying scalable applications on **AWS and Azure**.  
-I specialize in tools like **Terraform, Kubernetes, Docker, Ansible, and GitHub Actions** to build **secure and high-performance cloud environments**.
+Forward-thinking and detail-oriented **DevOps, DevSecOps, and Cloud Engineer** with hands-on experience automating cloud infrastructure, managing CI/CD pipelines, and deploying scalable applications across **AWS and Azure**[cite: 1, 2].
+
+I specialize in **Terraform, Kubernetes, Docker, Ansible, ArgoCD, and GitHub Actions**[cite: 1, 2] to build secure, resilient, and high-performance cloud environments. Experienced in bridging full-stack software engineering with modern **Platform Engineering** and **GitOps** principles[cite: 1].
 
 ---
 
-## 🏆 GitHub Trophies  
+## 💼 Professional Experience Summary
+
+### **Software Engineer / DevOps Engineer** | *GISFY Pvt. Ltd., Hyderabad* `[Nov 2025 – Present]`[cite: 1, 2]
+- Architected containerized deployment pipelines using **Docker** for Drupal CMS applications, **reducing setup time by ~50%** and ensuring dev/prod environment consistency[cite: 1, 2].
+- Engineered custom Drupal modules and full-stack features using **Python (Django)** & **React.js**[cite: 1, 2].
+- Designed and optimized **PostgreSQL & MySQL** databases for high query efficiency and data integrity[cite: 1, 2].
+
+### **DevOps Engineer** | *Quality Thoughts Pvt. Ltd., Hyderabad* `[Aug 2024 – Oct 2025]`[cite: 1, 2]
+- Engineered automated CI/CD pipelines utilizing **Jenkins** and **GitHub Actions**, cutting deployment release time by **40%**[cite: 1, 2].
+- Managed containerized workloads on **Amazon EKS (Kubernetes)** with auto-scaling policies to maintain **99.9% application uptime**[cite: 1, 2].
+- Provisioned multi-environment infrastructure on AWS using **Terraform (IaC)** and automated server configuration with **Ansible**[cite: 1, 2].
+- Configured **Nginx** reverse proxies and built telemetry dashboards using **Prometheus & Grafana** for real-time cluster monitoring[cite: 1, 2].
+
+---
+
+## 🏆 GitHub Trophies 
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rithwiksrivastav4&theme=radical&no-frame=true&margin-w=5&row=1&column=6" />
@@ -26,7 +42,7 @@ I specialize in tools like **Terraform, Kubernetes, Docker, Ansible, and GitHub 
 
 ---
 
-## 📊 GitHub Metrics  
+## 📊 GitHub Metrics 
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rithwiksrivastav4&theme=radical" />
@@ -34,7 +50,7 @@ I specialize in tools like **Terraform, Kubernetes, Docker, Ansible, and GitHub 
 
 ---
 
-## 📬 How to Reach Me  
+## 📬 How to Reach Me 
 
 <p align="center">
   <img src="https://svg-banners.vercel.app/api?type=origin&text1=Let's%20Connect&width=800&height=120" alt="Contact Banner" />
@@ -52,16 +68,18 @@ I specialize in tools like **Terraform, Kubernetes, Docker, Ansible, and GitHub 
 
 ---
 
-## 🧠 Technical Skills  
+## 🧠 Technical Skills 
 
-- **CI/CD**: GitHub Actions, Jenkins CI/CD, Azure DevOps Pipelines  
-- **Version Control**: Git, GitHub, GitLab  
-- **Containerization**: Docker  
-- **Container Orchestration**: Kubernetes, Helm  
-- **Infrastructure as Code**: Terraform, AWS CloudFormation  
-- **Configuration Management**: Ansible  
-- **Monitoring & Logging**: CloudWatch, Prometheus, Grafana  
-- **Scripting**: Python, Bash, PowerShell  
+- **CI/CD & GitOps**: GitHub Actions, Jenkins CI/CD, Azure DevOps Pipelines, ArgoCD, Bitbucket Pipelines[cite: 1, 2]
+- **Version Control**: Git, GitHub, GitLab, Bitbucket[cite: 1, 2]
+- **Containerization & DevSecOps**: Docker, SonarQube, Trivy, OWASP Dependency-Check[cite: 1, 2]
+- **Container Orchestration**: Kubernetes (EKS), Helm[cite: 1, 2]
+- **Infrastructure as Code (IaC)**: Terraform, AWS CloudFormation[cite: 1, 2]
+- **Configuration Management**: Ansible[cite: 1, 2]
+- **Monitoring & Observability**: AWS CloudWatch, Prometheus, Grafana[cite: 1, 2]
+- **Cloud Platforms**: Amazon Web Services (AWS), Microsoft Azure[cite: 1, 2]
+- **Full Stack & Scripting**: Python, Bash, PowerShell, JavaScript, React.js, Django[cite: 1, 2]
+- **Databases & Web Servers**: MySQL, PostgreSQL, Nginx[cite: 1, 2]
 
 ---
 
@@ -72,27 +90,31 @@ I specialize in tools like **Terraform, Kubernetes, Docker, Ansible, and GitHub 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg" alt="groovy" width="40" height="40"/>
 </p>
 
-### **Cloud & DevOps**
+### **Cloud & DevOps / DevSecOps**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="argocd" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg" alt="sonarqube" width="40" height="40"/>
 </p>
 
 ### **Databases & Monitoring**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
@@ -101,57 +123,13 @@ I specialize in tools like **Terraform, Kubernetes, Docker, Ansible, and GitHub 
 
 ---
 
-## 📁 Projects  
+## 📁 Projects 
 
-### 🚀 **Terraform**
-
-- **Multi-cloud Deployment**: Provisioned infrastructure on AWS & Azure using Terraform for scalable, repeatable deployments.  
-- **CI/CD Infrastructure**: Built automated pipelines integrated with GitHub Actions and GitLab CI.  
-- **Kubernetes Cluster Deployment**: Provisioned production-grade Kubernetes clusters using Terraform modules.  
-
----
-
-### ☸️ **Kubernetes**
-
-- **Spring Boot Application Deployment**: Deployed Java-based microservices with auto-scaling, service discovery, and high availability.  
-- **Microservices with Load Balancer**: Orchestrated Python-based library app with persistent volumes and traffic routing.  
-- **Rolling Updates**: Implemented seamless, zero-downtime deployments using Kubernetes strategies.  
-
----
-
-### 🐳 **Docker**
-
-- **Python Application**: Created lightweight Docker images for Python scripts and deployed across environments.  
-- **Spring Boot Containerization**: Used multi-stage Dockerfiles for optimized builds.  
-- **Static Website Deployment**: Dockerized Nginx and Apache-hosted sites.  
-
----
-
-### ⚙️ **Ansible**
-
-- **Java Application Automation**: Provisioned remote deployments using Ansible playbooks.  
-- **Website Deployment**: Automated server setup and file transfer for static sites.  
-- **React.js Deployment**: Built and deployed full-stack apps to cloud instances.  
-
----
-
-### 🧪 **GitHub & Azure DevOps**
-
-- **GitHub Actions**: Integrated automated testing, linting, formatting, and Terraform deployments.
-
-- **Azure DevOps**: Built Kubernetes clusters and executed quality testing pipelines.
-
----
-
-### Project: Wanderlust – End-to-End MERN Application Deployment on AWS EKS
+### 🛡️ **Featured DevSecOps Project: Wanderlust – End-to-End MERN Application Deployment on AWS EKS**
 
 **Tech Stack:**
-
 <p align="left">
-  <!-- Skillicons icons for available tools -->
   <img src="https://skillicons.dev/icons?i=aws,jenkins,docker,terraform,prometheus,grafana,redis,github" />
-
-  <!-- Custom icons for missing tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="argocd" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg" alt="sonarqube" width="30" height="30"/>
    <img src="https://raw.githubusercontent.com/OWASP/www-project-top-ten/main/images/OWASP-Logo-Wordmark-Black.png" alt="owasp" width="30" height="30"/>
@@ -159,10 +137,7 @@ I specialize in tools like **Terraform, Kubernetes, Docker, Ansible, and GitHub 
   <img src="https://raw.githubusercontent.com/helm/helm/main/docs/images/helm-logo.svg" alt="helm" width="30" height="30"/>
 </p>
 
-
-
 **Description:**
-
 - Deployed a full-stack **MERN travel blog application** on **AWS EKS** using a complete **CI/CD pipeline** with **Jenkins and ArgoCD**.
 - Automated infrastructure provisioning with **Terraform** and managed containerized builds using **Docker** and **Amazon EKS**.
 - Integrated **OWASP, Trivy, and SonarQube** into the **Jenkins pipeline** for security, vulnerability scanning, and code quality checks.
@@ -175,44 +150,85 @@ I specialize in tools like **Terraform, Kubernetes, Docker, Ansible, and GitHub 
 
 ---
 
-### 🐍 **Python Projects**
+### 🏛️ **Enterprise CMS Project: DRUPAL SHOC (SADC Regional Government)**[cite: 1, 2]
 
-- Number Guessing Game, SIP Calculator, FastAPI Library App, Currency Converter, etc.  
+- **Pixel-Perfect Delivery**: Built a customized Drupal theme converting Figma designs into a fully responsive interface across 120+ pages within a 3-month timeline[cite: 1, 2].
+- **Integrations & Scaling**: Built custom Drupal modules, REST API integrations, multi-language localization, and secure payment processing[cite: 1, 2].
+- **Container Deployment**: Deployed application architecture utilizing Docker container pipelines, cutting setup duration by 50%[cite: 1, 2].
 
 ---
 
-## Languages and tools
+### 🚀 **Terraform & Infrastructure as Code**[cite: 1, 2]
+
+- **Multi-cloud Deployment**: Provisioned scalable, repeatable infrastructure on AWS & Azure using modular Terraform code[cite: 1, 2].
+- **CI/CD Infrastructure**: Automated IaC execution via GitHub Actions and GitLab CI workflows[cite: 1, 2].
+- **Kubernetes Cluster Deployment**: Bootstrapped production-grade Kubernetes clusters using reusable Terraform modules[cite: 1, 2].
+
+---
+
+### ☸️ **Kubernetes (Orchestration & Microservices)**[cite: 1, 2]
+
+- **Spring Boot Application Deployment**: Containerized Spring Boot microservices with multi-stage Docker builds and deployed to Kubernetes with rolling update strategies[cite: 1, 2].
+- **Microservices with Load Balancer**: Orchestrated Python microservices using persistent storage volumes, ingress controllers, and load balancing[cite: 1, 2].
+- **Zero-Downtime Deployment**: Executed seamless rolling updates and automated pod auto-scaling policies[cite: 1, 2].
+
+---
+
+### 🐳 **Docker (Containerization)**[cite: 1, 2]
+
+- **Python Application**: Created lightweight, secure Docker images for microservices[cite: 1, 2].
+- **Spring Boot Containerization**: Optimized multi-stage Dockerfiles for minimal build sizes[cite: 1, 2].
+- **Static & Dynamic Web Hosting**: Containerized Nginx and Drupal/Apache platforms for isolated staging and production releases[cite: 1, 2].
+
+---
+
+### ⚙️ **Ansible (Configuration Management)**[cite: 1, 2]
+
+- **Java & React Automation**: Automated Java and React application builds and instance setups using custom playbooks[cite: 1, 2].
+- **Server Provisioning**: Automated server initialization, user management, and static file delivery across multi-node environments[cite: 1, 2].
+
+---
+
+### 🧪 **GitHub Actions & Azure DevOps**[cite: 1, 2]
+
+- **GitHub Actions**: Integrated automated testing, linting, code quality checks, and automated Terraform execution[cite: 1, 2].
+- **Azure DevOps**: Provisioned Kubernetes environments and ran build quality pipelines[cite: 1, 2].
+
+---
+
+### 🐍 **Python Projects**[cite: 1, 2]
+
+- FastAPI Library App, SIP Calculator, Currency Converter, and CLI Game Engines[cite: 1, 2].
+
+---
+
+## 🛠️ Languages and Tools Summary
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,mysql,githubactions,gitlab,azure,git,github,docker,kubernetes,terraform,ansible,aws,bash,python,powershell,grafana,prometheus,vscode,jenkins" />
+  <img src="https://skillicons.dev/icons?i=html,css,mysql,postgres,githubactions,gitlab,azure,git,github,docker,kubernetes,terraform,ansible,aws,bash,python,powershell,grafana,prometheus,vscode,jenkins" />
 </p>
 
+---
+
+## 📚 Education 
+
+- **Bachelor of Technology (B.Tech) in Computer Science Engineering**[cite: 1, 2]  
+  *Trinity College of Engineering and Technology* (2020 – 2024)[cite: 1, 2]  
+  📊 **CGPA**: 7.31 / 70%[cite: 1, 2]
+
+- **Intermediate (MPC)**[cite: 1, 2]  
+  *Sri Venkateshwara Junior College* (2018 – 2020)[cite: 1, 2]  
+  📊 **Percentage**: 91% (Score: 915/1000)[cite: 1, 2]
+
+- **Secondary School Certificate (SSC)**[cite: 1, 2]  
+  *Brilliant Model High School* (2018)[cite: 1, 2]  
+  📊 **GPA**: 9.0 / 90%[cite: 1, 2]
 
 ---
 
-## 📚 Education  
-
-- **Bachelor of Technology (B.Tech) in Computer Science Engineering**  
-  *Trinity College of Engineering and Technology* (2020 – 2024)  
-  📊 **CGPA**: 7.31 / 70%  
-
-- **Intermediate (MPC)**  
-  *Sri Venkateshwara Junior College*  
-  📊 **Percentage**: 91% (Score: 915/1000)  
-
-- **SSC**  
-  *Brilliant Model High School*  
-  📊 **GPA**: 9.0 / 90%  
-
----
-
-## 💼 Internship  
-
-**V CUBE Software Solutions Pvt. Ltd.** – *DevOps & Cloud Intern*  
-
-- Gained hands-on experience with AWS and Microsoft Azure cloud platforms.
-- Worked on implementing DevOps pipelines, automation workflows, and deployment strategies.  
-- Developed practical understanding of cloud infrastructure, CI/CD tools, and infrastructure provisioning techniques.  
+- Gained hands-on experience provisioning AWS and Azure cloud resources[cite: 1, 2].
+- Built CI/CD automated deployment workflows using Docker, Jenkins, Kubernetes, Terraform, and Ansible[cite: 1, 2].
+- Monitored containerized microservices in cloud environment testbeds[cite: 1, 2].
 
 ---
 
@@ -224,7 +240,7 @@ I specialize in tools like **Terraform, Kubernetes, Docker, Ansible, and GitHub 
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rithwiksrivastav4&show_icons=true&theme=radical&hide_border=true" height="180px"/>
@@ -237,7 +253,7 @@ I specialize in tools like **Terraform, Kubernetes, Docker, Ansible, and GitHub 
 
 ---
 
-## 🐍 Snake Contribution Graph  
+## 🐍 Snake Contribution Graph 
 
 <p align="center">
   <img src="https://github.com/rithwiksrivastav4/rithwiksrivastav4/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
@@ -245,7 +261,7 @@ I specialize in tools like **Terraform, Kubernetes, Docker, Ansible, and GitHub 
 
 ---
 
-## 💡 Dev Quote  
+## 💡 Dev Quote 
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
@@ -261,4 +277,4 @@ I specialize in tools like **Terraform, Kubernetes, Docker, Ansible, and GitHub 
 
 ---
 
-> 🔍 *“Driven by a passion for automation and cloud scalability, I aim to build systems that are not only functional but also resilient and efficient.”* — **Rithwik Srivastav**
+> 🔍 *“Driven by a passion for automation, cloud scalability, and DevSecOps excellence, I build systems that are resilient, secure, and performant.”* — **Rithwik Srivastav**[cite: 1, 2]
