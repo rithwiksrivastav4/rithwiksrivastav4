@@ -13,24 +13,24 @@
 
 ## 🚀 About Me
 
-Forward-thinking and detail-oriented **DevOps, DevSecOps, and Cloud Engineer** with hands-on experience automating cloud infrastructure, managing CI/CD pipelines, and deploying scalable applications across **AWS and Azure**[cite: 1, 2].
+Forward-thinking and detail-oriented **DevOps, DevSecOps, and Cloud Engineer** with hands-on experience automating cloud infrastructure, managing CI/CD pipelines, and deploying scalable applications across **AWS and Azure**.
 
-I specialize in **Terraform, Kubernetes, Docker, Ansible, ArgoCD, and GitHub Actions**[cite: 1, 2] to build secure, resilient, and high-performance cloud environments. Experienced in bridging full-stack software engineering with modern **Platform Engineering** and **GitOps** principles[cite: 1].
+I specialize in **Terraform, Kubernetes, Docker, Ansible, ArgoCD, and GitHub Actions** to build secure, resilient, and high-performance cloud environments. Experienced in bridging full-stack software engineering with modern **Platform Engineering** and **GitOps** principles.
 
 ---
 
 ## 💼 Professional Experience Summary
 
-### **Software Engineer / DevOps Engineer** | *GISFY Pvt. Ltd., Hyderabad* `[Nov 2025 – Present]`[cite: 1, 2]
-- Architected containerized deployment pipelines using **Docker** for Drupal CMS applications, **reducing setup time by ~50%** and ensuring dev/prod environment consistency[cite: 1, 2].
-- Engineered custom Drupal modules and full-stack features using **Python (Django)** & **React.js**[cite: 1, 2].
-- Designed and optimized **PostgreSQL & MySQL** databases for high query efficiency and data integrity[cite: 1, 2].
+### **Software Engineer / DevOps Engineer** | *GISFY Pvt. Ltd., Hyderabad* `[Nov 2025 – Present]`
+- Architected containerized deployment pipelines using **Docker** for Drupal CMS applications, **reducing setup time by ~50%** and ensuring dev/prod environment consistency.
+- Engineered custom Drupal modules and full-stack features using **Python (Django)** & **React.js**.
+- Designed and optimized **PostgreSQL & MySQL** databases for high query efficiency and data integrity.
 
-### **DevOps Engineer** | *Quality Thoughts Pvt. Ltd., Hyderabad* `[Aug 2024 – Oct 2025]`[cite: 1, 2]
-- Engineered automated CI/CD pipelines utilizing **Jenkins** and **GitHub Actions**, cutting deployment release time by **40%**[cite: 1, 2].
-- Managed containerized workloads on **Amazon EKS (Kubernetes)** with auto-scaling policies to maintain **99.9% application uptime**[cite: 1, 2].
-- Provisioned multi-environment infrastructure on AWS using **Terraform (IaC)** and automated server configuration with **Ansible**[cite: 1, 2].
-- Configured **Nginx** reverse proxies and built telemetry dashboards using **Prometheus & Grafana** for real-time cluster monitoring[cite: 1, 2].
+### **DevOps Engineer** | *Quality Thoughts Pvt. Ltd., Hyderabad* `[Aug 2024 – Oct 2025]`
+- Engineered automated CI/CD pipelines utilizing **Jenkins** and **GitHub Actions**, cutting deployment release time by **40%**.
+- Managed containerized workloads on **Amazon EKS (Kubernetes)** with auto-scaling policies to maintain **99.9% application uptime**.
+- Provisioned multi-environment infrastructure on AWS using **Terraform (IaC)** and automated server configuration with **Ansible**.
+- Configured **Nginx** reverse proxies and built telemetry dashboards using **Prometheus & Grafana** for real-time cluster monitoring.
 
 ---
 
@@ -70,16 +70,16 @@ I specialize in **Terraform, Kubernetes, Docker, Ansible, ArgoCD, and GitHub Act
 
 ## 🧠 Technical Skills 
 
-- **CI/CD & GitOps**: GitHub Actions, Jenkins CI/CD, Azure DevOps Pipelines, ArgoCD, Bitbucket Pipelines[cite: 1, 2]
-- **Version Control**: Git, GitHub, GitLab, Bitbucket[cite: 1, 2]
-- **Containerization & DevSecOps**: Docker, SonarQube, Trivy, OWASP Dependency-Check[cite: 1, 2]
-- **Container Orchestration**: Kubernetes (EKS), Helm[cite: 1, 2]
-- **Infrastructure as Code (IaC)**: Terraform, AWS CloudFormation[cite: 1, 2]
-- **Configuration Management**: Ansible[cite: 1, 2]
-- **Monitoring & Observability**: AWS CloudWatch, Prometheus, Grafana[cite: 1, 2]
-- **Cloud Platforms**: Amazon Web Services (AWS), Microsoft Azure[cite: 1, 2]
-- **Full Stack & Scripting**: Python, Bash, PowerShell, JavaScript, React.js, Django[cite: 1, 2]
-- **Databases & Web Servers**: MySQL, PostgreSQL, Nginx[cite: 1, 2]
+- **CI/CD & GitOps**: GitHub Actions, Jenkins CI/CD, Azure DevOps Pipelines, ArgoCD, Bitbucket Pipelines
+- **Version Control**: Git, GitHub, GitLab, Bitbucket
+- **Containerization & DevSecOps**: Docker, SonarQube, Trivy, OWASP Dependency-Check
+- **Container Orchestration**: Kubernetes (EKS), Helm
+- **Infrastructure as Code (IaC)**: Terraform, AWS CloudFormation
+- **Configuration Management**: Ansible
+- **Monitoring & Observability**: AWS CloudWatch, Prometheus, Grafana
+- **Cloud Platforms**: Amazon Web Services (AWS), Microsoft Azure
+- **Full Stack & Scripting**: Python, Bash, PowerShell, JavaScript, React.js, Django
+- **Databases & Web Servers**: MySQL, PostgreSQL, Nginx
 
 ---
 
@@ -132,7 +132,7 @@ I specialize in **Terraform, Kubernetes, Docker, Ansible, ArgoCD, and GitHub Act
   <img src="https://skillicons.dev/icons?i=aws,jenkins,docker,terraform,prometheus,grafana,redis,github" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="argocd" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg" alt="sonarqube" width="30" height="30"/>
-   <img src="https://raw.githubusercontent.com/OWASP/www-project-top-ten/main/images/OWASP-Logo-Wordmark-Black.png" alt="owasp" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/OWASP/www-project-top-ten/main/images/OWASP-Logo-Wordmark-Black.png" alt="owasp" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/logo/trivy-logo.svg" alt="trivy" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/helm/helm/main/docs/images/helm-logo.svg" alt="helm" width="30" height="30"/>
 </p>
@@ -150,55 +150,55 @@ I specialize in **Terraform, Kubernetes, Docker, Ansible, ArgoCD, and GitHub Act
 
 ---
 
-### 🏛️ **Enterprise CMS Project: DRUPAL SHOC (SADC Regional Government)**[cite: 1, 2]
+### 🏛️ **Enterprise CMS Project: DRUPAL SHOC (SADC Regional Government)**
 
-- **Pixel-Perfect Delivery**: Built a customized Drupal theme converting Figma designs into a fully responsive interface across 120+ pages within a 3-month timeline[cite: 1, 2].
-- **Integrations & Scaling**: Built custom Drupal modules, REST API integrations, multi-language localization, and secure payment processing[cite: 1, 2].
-- **Container Deployment**: Deployed application architecture utilizing Docker container pipelines, cutting setup duration by 50%[cite: 1, 2].
-
----
-
-### 🚀 **Terraform & Infrastructure as Code**[cite: 1, 2]
-
-- **Multi-cloud Deployment**: Provisioned scalable, repeatable infrastructure on AWS & Azure using modular Terraform code[cite: 1, 2].
-- **CI/CD Infrastructure**: Automated IaC execution via GitHub Actions and GitLab CI workflows[cite: 1, 2].
-- **Kubernetes Cluster Deployment**: Bootstrapped production-grade Kubernetes clusters using reusable Terraform modules[cite: 1, 2].
+- **Pixel-Perfect Delivery**: Built a customized Drupal theme converting Figma designs into a fully responsive interface across 120+ pages within a 3-month timeline.
+- **Integrations & Scaling**: Built custom Drupal modules, REST API integrations, multi-language localization, and secure payment processing.
+- **Container Deployment**: Deployed application architecture utilizing Docker container pipelines, cutting setup duration by 50%.
 
 ---
 
-### ☸️ **Kubernetes (Orchestration & Microservices)**[cite: 1, 2]
+### 🚀 **Terraform & Infrastructure as Code**
 
-- **Spring Boot Application Deployment**: Containerized Spring Boot microservices with multi-stage Docker builds and deployed to Kubernetes with rolling update strategies[cite: 1, 2].
-- **Microservices with Load Balancer**: Orchestrated Python microservices using persistent storage volumes, ingress controllers, and load balancing[cite: 1, 2].
-- **Zero-Downtime Deployment**: Executed seamless rolling updates and automated pod auto-scaling policies[cite: 1, 2].
-
----
-
-### 🐳 **Docker (Containerization)**[cite: 1, 2]
-
-- **Python Application**: Created lightweight, secure Docker images for microservices[cite: 1, 2].
-- **Spring Boot Containerization**: Optimized multi-stage Dockerfiles for minimal build sizes[cite: 1, 2].
-- **Static & Dynamic Web Hosting**: Containerized Nginx and Drupal/Apache platforms for isolated staging and production releases[cite: 1, 2].
+- **Multi-cloud Deployment**: Provisioned scalable, repeatable infrastructure on AWS & Azure using modular Terraform code.
+- **CI/CD Infrastructure**: Automated IaC execution via GitHub Actions and GitLab CI workflows.
+- **Kubernetes Cluster Deployment**: Bootstrapped production-grade Kubernetes clusters using reusable Terraform modules.
 
 ---
 
-### ⚙️ **Ansible (Configuration Management)**[cite: 1, 2]
+### ☸️ **Kubernetes (Orchestration & Microservices)**
 
-- **Java & React Automation**: Automated Java and React application builds and instance setups using custom playbooks[cite: 1, 2].
-- **Server Provisioning**: Automated server initialization, user management, and static file delivery across multi-node environments[cite: 1, 2].
-
----
-
-### 🧪 **GitHub Actions & Azure DevOps**[cite: 1, 2]
-
-- **GitHub Actions**: Integrated automated testing, linting, code quality checks, and automated Terraform execution[cite: 1, 2].
-- **Azure DevOps**: Provisioned Kubernetes environments and ran build quality pipelines[cite: 1, 2].
+- **Spring Boot Application Deployment**: Containerized Spring Boot microservices with multi-stage Docker builds and deployed to Kubernetes with rolling update strategies.
+- **Microservices with Load Balancer**: Orchestrated Python microservices using persistent storage volumes, ingress controllers, and load balancing.
+- **Zero-Downtime Deployment**: Executed seamless rolling updates and automated pod auto-scaling policies.
 
 ---
 
-### 🐍 **Python Projects**[cite: 1, 2]
+### 🐳 **Docker (Containerization)**
 
-- FastAPI Library App, SIP Calculator, Currency Converter, and CLI Game Engines[cite: 1, 2].
+- **Python Application**: Created lightweight, secure Docker images for microservices.
+- **Spring Boot Containerization**: Optimized multi-stage Dockerfiles for minimal build sizes.
+- **Static & Dynamic Web Hosting**: Containerized Nginx and Drupal/Apache platforms for isolated staging and production releases.
+
+---
+
+### ⚙️ **Ansible (Configuration Management)**
+
+- **Java & React Automation**: Automated Java and React application builds and instance setups using custom playbooks.
+- **Server Provisioning**: Automated server initialization, user management, and static file delivery across multi-node environments.
+
+---
+
+### 🧪 **GitHub Actions & Azure DevOps**
+
+- **GitHub Actions**: Integrated automated testing, linting, code quality checks, and automated Terraform execution.
+- **Azure DevOps**: Provisioned Kubernetes environments and ran build quality pipelines.
+
+---
+
+### 🐍 **Python Projects**
+
+- FastAPI Library App, SIP Calculator, Currency Converter, and CLI Game Engines.
 
 ---
 
@@ -212,23 +212,27 @@ I specialize in **Terraform, Kubernetes, Docker, Ansible, ArgoCD, and GitHub Act
 
 ## 📚 Education 
 
-- **Bachelor of Technology (B.Tech) in Computer Science Engineering**[cite: 1, 2]  
-  *Trinity College of Engineering and Technology* (2020 – 2024)[cite: 1, 2]  
-  📊 **CGPA**: 7.31 / 70%[cite: 1, 2]
+- **Bachelor of Technology (B.Tech) in Computer Science Engineering**  
+  *Trinity College of Engineering and Technology* (2020 – 2024)  
+  📊 **CGPA**: 7.31 / 70%
 
-- **Intermediate (MPC)**[cite: 1, 2]  
-  *Sri Venkateshwara Junior College* (2018 – 2020)[cite: 1, 2]  
-  📊 **Percentage**: 91% (Score: 915/1000)[cite: 1, 2]
+- **Intermediate (MPC)**  
+  *Sri Venkateshwara Junior College* (2018 – 2020)  
+  📊 **Percentage**: 91% (Score: 915/1000)
 
-- **Secondary School Certificate (SSC)**[cite: 1, 2]  
-  *Brilliant Model High School* (2018)[cite: 1, 2]  
-  📊 **GPA**: 9.0 / 90%[cite: 1, 2]
+- **Secondary School Certificate (SSC)**  
+  *Brilliant Model High School* (2018)  
+  📊 **GPA**: 9.0 / 90%
 
 ---
 
-- Gained hands-on experience provisioning AWS and Azure cloud resources[cite: 1, 2].
-- Built CI/CD automated deployment workflows using Docker, Jenkins, Kubernetes, Terraform, and Ansible[cite: 1, 2].
-- Monitored containerized microservices in cloud environment testbeds[cite: 1, 2].
+## 💼 Internship 
+
+**VCUBE Software Solutions Pvt. Ltd.** – *DevOps & Cloud Intern* `[Mar 2025 – Apr 2025]`
+
+- Gained hands-on experience provisioning AWS and Azure cloud resources.
+- Built CI/CD automated deployment workflows using Docker, Jenkins, Kubernetes, Terraform, and Ansible.
+- Monitored containerized microservices in cloud environment testbeds.
 
 ---
 
@@ -277,4 +281,4 @@ I specialize in **Terraform, Kubernetes, Docker, Ansible, ArgoCD, and GitHub Act
 
 ---
 
-> 🔍 *“Driven by a passion for automation, cloud scalability, and DevSecOps excellence, I build systems that are resilient, secure, and performant.”* — **Rithwik Srivastav**[cite: 1, 2]
+> 🔍 *“Driven by a passion for automation, cloud scalability, and DevSecOps excellence, I build systems that are resilient, secure, and performant.”* — **Rithwik Srivastav**
