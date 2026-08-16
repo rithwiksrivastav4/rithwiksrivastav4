@@ -276,7 +276,7 @@ I specialize in **Terraform, Kubernetes, Docker, Ansible, ArgoCD, and GitHub Act
 ## 😂 Random Dev Meme
 
 <p align="center">
-  <img src="memes/meme5.png?cachebust=1786910522" width="400px" alt="Random Dev Meme" />
+  <img src="memes/meme3.png?cachebust=1786912277" width="400px" alt="Random Dev Meme" />
 </p>
 
 ---
